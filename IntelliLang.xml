@@ -1,0 +1,10 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JQuery-CSS" injector-id="js">
+      <display-name>JQuery selectors</display-name>
+      <suffix>{}</suffix>
+      <single-file value="true" />
+      <place disabled="true"><![CDATA[jqueryArgument()]]></place>
+    </injection>
+  </component>
+</application>
