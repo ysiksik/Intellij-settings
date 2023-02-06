@@ -1,0 +1,25 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="립페이 PG 개발 DB" uuid="1de480f0-6d08-4a0d-a4bf-56846fe0fbf5">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://192.168.0.30:3306/reappg?serverTimezone=Asia/Seoul:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="립페이 PG 테스트 DB" uuid="1a371e6e-86fe-48e4-b16c-f22445315d34">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://10.200.10.22:3306/reappg?serverTimezone=Asia/Seoul:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="립페이 PG 운영 DB" uuid="9eb46675-c04f-4a9c-b025-b79f51504545">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://10.200.10.30:3306/reappg?serverTimezone=Asia/Seoul:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</application>

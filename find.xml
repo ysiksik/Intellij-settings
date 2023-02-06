@@ -5,10 +5,9 @@
     <option name="SEARCH_SCOPE" value="모든 위치" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.md</mask>
   </component>
 </application>
