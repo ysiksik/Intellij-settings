@@ -127,15 +127,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2-batch/pg-platform-v2-batch-core.git" />
+          <option name="url" value="https://github.com/kker5/point-management-practice.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2-batch/pg-platform-v2-batch-every-transaction-history.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2-batch/pg-platform-v2-batch-every-transaction-reconcile.git" />
+          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2/pg-platform-v2-diffsettled-transfer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -143,23 +139,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2-batch/pg-platform-v2-batch-ksnetpg-transaction-download.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2-batch/pg-platform-v2-batch-ksnetpg-transaction-file2db.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2-batch/pg-platform-v2-batch-welcomepg-diffsettled.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2-batch/pg-platform-v2-batch-welcomepg-transaction-download.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2-batch/pg-platform-v2-batch-welcomepg-transaction-file2db.git" />
+          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2-batch/pg-platform-v2-batch-every-transaction-history.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -167,15 +151,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/ysiksik/ysiksik.github.io.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/whiteship/java8.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/vulnerability-scan/linux-server-vulnerability-scan.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/vulnerability-scan/owasp-zap-reappay-pg.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -183,23 +163,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2-batch/pg-platform-v2-batch-auto-cancel.git" />
+          <option name="url" value="https://github.com/keesun/inflearn-the-java-test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/khw11044/khw11044.github.io.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/stylehosting/example-spring.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/djkeh/fastcampus-spring-practice.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/djkeh/fastcampus-java-oop.git" />
+          <option name="url" value="https://github.com/ColorlibHQ/AdminLTE.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -207,11 +175,19 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2-batch/pg-platform-v2-batch-kispg-diffsettled.git" />
+          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2/pg-platform-v2-client-agency.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/djkeh/get-in-line.git" />
+          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2/pg-platform-v2-authorization.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2/pg-platform-v2-client-merchant.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2/pg-platform-v2-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -222,15 +198,12 @@
           <option name="url" value="https://github.com/cheese10yun/spring-rest-docs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/kker5/point-management-practice.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces\fastcampus\SpringCompleteEditionSuperGapPackageOnline\Part 9. 실무 밀착 프로젝트" />
+    <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />

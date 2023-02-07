@@ -1,0 +1,183 @@
+<application>
+  <component name="SettingsSyncPlugins">
+    <option name="plugins">
+      <map>
+        <entry key="GrepConsole">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="Key Promoter X">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="String Manipulation">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.baomidou.plugin.idea.mybatisx">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.fan.plugin.SimpleCamelCase">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.github.copilot">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.haulmont.jpab">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.properties" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.javaee.batch">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.cdi" />
+                  <option value="com.intellij.javaee" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.ko">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.spring.batch">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.jetbrains.codeWithMe">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.jetbrains.projector.libs" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="de.netnexus.camelcaseplugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="izhangzhihao.rainbow.brackets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="net.vektah.codeglance">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.asciidoctor.intellij.asciidoc">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.intellij.plugin.jojoldu.translator">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.plugins.vue">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

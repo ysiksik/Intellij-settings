@@ -1,5 +1,6 @@
 <application>
   <component name="GrepConsole">
+    <option name="allowRunConfigurationChanges" value="false" />
     <option name="profiles">
       <list>
         <Profile>
@@ -81,7 +82,6 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="default" />
               </GrepExpressionGroup>
             </list>
           </option>
@@ -103,7 +103,6 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="default" />
               </GrepExpressionGroup>
             </list>
           </option>
@@ -111,5 +110,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>
