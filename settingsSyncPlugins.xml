@@ -76,6 +76,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.guice">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.intellij.javaee.batch">
           <value>
             <PluginData>
@@ -139,6 +144,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="net.seesharpsoft.intellij.plugins.csv">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="net.vektah.codeglance">
           <value>
             <PluginData>
@@ -175,6 +191,18 @@
         <entry key="org.jetbrains.plugins.vue">
           <value>
             <PluginData />
+          </value>
+        </entry>
+        <entry key="zielu.gittoolbox">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Git4Idea" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
           </value>
         </entry>
       </map>
