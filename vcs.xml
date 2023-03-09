@@ -206,6 +206,14 @@
           <option name="url" value="https://github.com/kjs92980/pass-batch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kjs92980/pass-batch-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kjs92980/pass-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces\fastcampus\BackEndWebDevelopmentSuper-gapPackageCompletedWith10Projects\Part5" />
