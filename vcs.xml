@@ -199,20 +199,24 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2/pg-platform-v2-client-agency-frontend.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2/pg-platform-v2-client-merchant-frontend.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="https://github.com/joneconsulting/spring-cloud-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kjs92980/pass-batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kjs92980/pass-batch-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kjs92980/pass-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces\inflearn" />
+    <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces\fastcampus\BackEndWebDevelopmentSuper-gapPackageCompletedWith10Projects\Part5" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
