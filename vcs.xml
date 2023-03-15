@@ -214,9 +214,29 @@
           <option name="url" value="https://github.com/kjs92980/pass-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/LectureRepo/MultiModule.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/LectureRepo/SpringAsync.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/LectureRepo/FeignClient.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/LectureRepo/GithubAction.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/LectureRepo/Logback.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces\fastcampus\BackEndWebDevelopmentSuper-gapPackageCompletedWith10Projects\Part5" />
+    <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces\fastcampus\BackEndWebDevelopmentSuper-gapPackageCompletedWith10Projects\Part6" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
