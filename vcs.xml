@@ -242,9 +242,13 @@
           <option name="url" value="https://github.com/tony9402/FastCampus_Solution.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/djkeh/fastcampus-project-board-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces\fastcampus\codingTest" />
+    <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces\fastcampus\10개 프로젝트로 완성하는 백엔드 웹개발(JavaSpring)\Part 4. 어드민 서비스" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
