@@ -266,6 +266,10 @@
           <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2/pg-platform-v2-multi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab-pg.reappay.net/reappay-pg-v2-batch/pg-platform-v2-batch-kispg-diffsettled.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\reappayWorkspaces" />
