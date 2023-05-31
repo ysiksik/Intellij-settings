@@ -1,5 +1,7 @@
 <application>
   <component name="RefactoringSettings">
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_CONSTANT_REPLACE_ALL" value="true" />
     <option name="RENAME_ACCESSORS" value="false" />
   </component>
 </application>
