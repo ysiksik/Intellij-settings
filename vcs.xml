@@ -290,9 +290,13 @@
           <option name="url" value="https://github.com/dolphina02/redisForZset.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kakaopayseccoding-server/202306-appie6069-naver.com.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces\fastcampus\10개 프로젝트로 완성하는 백엔드 웹개발(JavaSpring)\Part10. Redis,Kafka를 활용한 대용량 데이터 처리 프로젝트" />
+    <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces\RealtimeStockRankings" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
