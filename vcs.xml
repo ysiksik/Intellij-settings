@@ -294,6 +294,10 @@
           <option name="url" value="https://github.com/healingpaper-online-challenge/code-review-test-CHOYUNSIK.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/koreanckh/Jobis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces" />
