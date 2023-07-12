@@ -298,6 +298,10 @@
           <option name="url" value="https://github.com/koreanckh/Jobis.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/CHOYUNSIK/threeperiodthree.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\studyWorkspaces" />
