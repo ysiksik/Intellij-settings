@@ -314,6 +314,26 @@
           <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Lingo/tx-lingo-api" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Tradlinx%20Legacy/TradlinxCommon" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/tx-infra/tx-infra" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/tx-api-forwarder/tx-api-forwarder" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/LCL%20Schedule/tx-scraper-lcl-excel" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/tx-api-inner/tx-api-inner" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\TradlinxWorkspace" />
