@@ -370,6 +370,42 @@
           <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Monitoring/tx-monitor-api" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Monitoring/tx-monitor-batch" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Monitoring/tx-monitor-bl-crawler" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Monitoring/tx-monitor-checker" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Monitoring/tx-monitor-notifier" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Monitoring/tx-monitor-scraper" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Senders/tx-sender-email" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Senders/tx-sender-kakao" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Tradlinx%20Legacy/Tradlinx%20Legacy%20Batch" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Tradlinx%20Legacy/TradlinxAPI" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\TradlinxWorkspace" />
