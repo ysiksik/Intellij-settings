@@ -334,6 +334,42 @@
           <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/tx-api-inner/tx-api-inner" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/FCL%20Schedule/tx-schedule-if" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/FCL%20Schedule/tx-scraper-hub" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/FCL%20Schedule/tx-scraper-machinemanager" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/FCL%20Schedule/tx-scraper-p2p" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/FCL%20Schedule/tx-scraper-p2p-ftp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/FCL%20Schedule/tx-scraper-vessel-schedule" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Lingo/tx-ui-lingo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Monitoring/DEL-tx-monitor-consumer" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Monitoring/tx-monitor-api" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\TradlinxWorkspace" />
