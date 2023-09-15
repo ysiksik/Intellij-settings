@@ -6,5 +6,9 @@
     <driver id="mariadb">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="3.0.7" />
     </driver>
+    <driver id="azure.ms">
+      <artifact id="SQL Server" name="SQL Server" use="true" version="12.2.0" />
+      <artifact id="MSAL4J" name="MSAL4J" use="true" version="1.13.7" />
+    </driver>
   </component>
 </application>

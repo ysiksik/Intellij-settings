@@ -21,5 +21,12 @@
       <jdbc-url>jdbc:mariadb://10.200.10.30:3306/reappg?serverTimezone=Asia/Seoul:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="립페이 개발" uuid="d85220b1-c101-4f73-b1a3-6db08d57ae26">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://127.0.0.1:3307/reappay0719</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
