@@ -10,5 +10,10 @@
       <artifact id="SQL Server" name="SQL Server" use="true" version="12.2.0" />
       <artifact id="MSAL4J" name="MSAL4J" use="true" version="1.13.7" />
     </driver>
+    <driver id="az_cosmos_mongo" name="Azure Cosmos DB API for MongoDB" dialect="MongoDB" forced-dbms="MONGO" driver-class="com.dbschema.MongoJdbcDriver" icon="icons/Microsoft.DocumentDB/databaseAccounts/mongo.svg">
+      <url-template name="default" template="[jdbc:]mongodb[+srv]://[{user:identifier}[:{password:param}]@]&lt;\,,{host::localhost}?[:{port::27017}]&gt;[/{database}?[/{account:cosmos_account_mongo}?]]/\?ssl=true&amp;replicaSet=globaldb&amp;retrywrites=false&amp;maxIdleTimeMS=120000[\?&lt;&amp;,{:identifier}={:param}&gt;]" />
+      <artifact id="MongoDB" name="MongoDB" use="true" />
+      <property name="appName" value="DataGrip" />
+    </driver>
   </component>
 </application>
