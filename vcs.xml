@@ -406,6 +406,18 @@
           <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Tradlinx%20Legacy/TradlinxAPI" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/Auth/tx-auth-api" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/tx-zimgo/tx-zimgo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/Tradlinx/tx-zimgo/tx-zimgo-credit" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\PROJECT\IntelliJ\TradlinxWorkspace" />
